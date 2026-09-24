@@ -1,0 +1,20 @@
+week -- 1 :
+
+PS C:\Users\kosha\OneDrive\ドキュメント\AI lab> python -u "c:\Users\kosha\OneDrive\ドキュメント\AI lab\week_2_1BM24CS139_Vacumworld.py"
+
+Current Position: A
+Room A: Dirty
+Room B: Dirty
+Action: Suck
+
+Current Position: A
+Room A: Clean
+Room B: Dirty
+Action: Move Right
+
+Current Position: B
+Room A: Clean
+Room B: Dirty
+Action: Suck
+
+Both rooms are clean!
